@@ -17,7 +17,6 @@
         <module>service</module>
         <module>service-api</module>
         <module>common</module>
-        <module>common</module>
         <module>common-api</module>
     </modules>
     <packaging>pom</packaging>
