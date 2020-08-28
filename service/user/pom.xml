@@ -93,7 +93,11 @@
             <artifactId>spring-tx</artifactId>
         </dependency>
 
-
+        <dependency>
+            <groupId>org.easy.test</groupId>
+            <artifactId>common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
     </dependencies>
 

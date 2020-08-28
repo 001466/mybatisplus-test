@@ -23,7 +23,6 @@ import org.ec.test.utils.BeanUtil;
 import org.ec.test.utils.Func;
 import org.ec.test.utils.StringUtil;
 
-
 import java.util.Map;
 
 /**

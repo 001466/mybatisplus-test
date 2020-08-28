@@ -602,9 +602,6 @@ public class Func {
 	 * @param html html
 	 * @return {String}
 	 */
-	public static String escapeHtml(String html) {
-		return StringUtil.escapeHtml(html);
-	}
 
 	/**
 	 * 随机数生成

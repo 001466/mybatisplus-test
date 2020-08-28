@@ -16,25 +16,49 @@
  */
 package org.ec.test.base;
 
-import com.baomidou.mybatisplus.extension.service.IService;
 
-import javax.validation.constraints.NotEmpty;
-import java.util.List;
+import io.swagger.annotations.ApiModelProperty;
+import lombok.Data;
+
+import java.io.Serializable;
+import java.util.Date;
 
 /**
- * 基础业务接口
+ * 基础实体类
  *
- * @param <T>
  * @author Chill
  */
-public interface BaseService<T> extends IService<T> {
+@Data
+public class BaseEntity implements Serializable {
+	/**
+	 * 主键id
+	 */
+	@ApiModelProperty(value = "主键id")
+	private Long id;
 
 	/**
-	 * 逻辑删除
-	 *
-	 * @param ids id集合(逗号分隔)
-	 * @return
+	 * 创建人
 	 */
-	boolean deleteLogic(@NotEmpty List<Integer> ids);
+	@ApiModelProperty(value = "创建人")
+	private Long createUser;
+
+	/**
+	 * 创建时间
+	 */
+	@ApiModelProperty(value = "创建时间")
+	private Date createTime;
+
+	/**
+	 * 更新人
+	 */
+	@ApiModelProperty(value = "更新人")
+	private Long updateUser;
+
+	/**
+	 * 更新时间
+	 */
+	@ApiModelProperty(value = "更新时间")
+	private Date updateTime;
+
 
 }

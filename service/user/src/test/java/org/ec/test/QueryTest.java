@@ -42,7 +42,7 @@ public class QueryTest extends AbstractJUnit4SpringContextTests
     {
         User user=userService.getOne(new QueryWrapper(new User.Builder().account("13049682420").build()));
         System.err.println(user);
-        user.setNickName("我是你爸");
+        user.setNickName("我是你爸x1");
         userService.updateById(user);
         user=userService.getOne(new QueryWrapper(new User.Builder().account("13049682420").build()));
         System.err.println(user);

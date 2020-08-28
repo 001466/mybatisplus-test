@@ -22,10 +22,8 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.ec.test.utils.BeanUtil;
 import org.springframework.validation.annotation.Validated;
 
-import javax.validation.constraints.NotEmpty;
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
-import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.List;
 
@@ -61,7 +59,7 @@ public class BaseServiceImpl<M extends BaseMapper<T>, T extends BaseEntity> exte
 	}
 
 	@Override
-	public boolean deleteLogic(@NotEmpty List<Integer> ids) {
+	public boolean deleteLogic(List<Integer> ids) {
 		T entity = BeanUtil.newInstance(modelClass);
 		entity.setUpdateTime(new Date());
 		return super.update(entity, Wrappers.<T>update().lambda().in(T::getId, ids)) && super.removeByIds(ids);

@@ -1,13 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="078333a2-6b9a-4943-9fd3-7824b6f1fb2d" name="Default" comment="" />
+    <list default="true" id="078333a2-6b9a-4943-9fd3-7824b6f1fb2d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/common-api/common-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-api/src/main/java/org/ec/test/base/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/base/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/base/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/base/BaseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/base/BaseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/support/BaseEntityWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/support/BaseEntityWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/support/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/support/Condition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/support/Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/support/Query.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/utils/BeanUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/utils/BeanUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/utils/CharPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/utils/CharPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/utils/Func.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/utils/Func.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/utils/ObjectUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/utils/ObjectUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/utils/StringPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/utils/StringPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/utils/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/ec/test/utils/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/src/test/java/org/ec/test/QueryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/user/src/test/java/org/ec/test/QueryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/base/BaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/base/BaseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/service/IUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/support/BaseEntityWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/support/Condition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/support/Query.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/utils/BeanUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/utils/CharPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/utils/Func.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/utils/ObjectUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/utils/StringPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/user/target/classes/org/ec/test/utils/StringUtil.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/service/target/" />
     <ignored path="$PROJECT_DIR$/service-api/target/" />
     <ignored path="$PROJECT_DIR$/service/user/target/" />
     <ignored path="$PROJECT_DIR$/service-api/user-api/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/common-api/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,23 +59,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/user/src/main/resources/application.yml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="400">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseEntity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-api/user-api/src/main/java/org/ec/test/base/BaseEntity.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/user/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="646">
+              <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IUserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/service/IUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -44,20 +89,8 @@
       <file leaf-file-name="UserApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/UserApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="450">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,38 +101,11 @@
       <file leaf-file-name="QueryTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/service/user/src/test/java/org/ec/test/QueryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+            <state relative-caret-position="39">
+              <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-api/user-api/src/main/java/org/ec/test/entity/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-900">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/mapper/UserMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="76" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/user/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -107,8 +113,8 @@
       <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="89" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="89" />
+            <state relative-caret-position="475">
+              <caret line="34" column="2" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,14 +122,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IUserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/service/IUserService.java">
+      <file leaf-file-name="BaseEntityWrapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/org/ec/test/support/BaseEntityWrapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="31" column="29" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="250">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -134,6 +137,9 @@
     <findStrings>
       <find>humpToUnderline</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -155,7 +161,6 @@
         <option value="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/base/BaseServiceImpl.java" />
         <option value="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/support/Condition.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/service-api/pom.xml" />
         <option value="$PROJECT_DIR$/service-api/user-api/pom.xml" />
         <option value="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/service/IUserService.java" />
@@ -163,9 +168,16 @@
         <option value="$PROJECT_DIR$/service/user/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/UserApplication.java" />
         <option value="$PROJECT_DIR$/service/user/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/service/user/pom.xml" />
         <option value="$PROJECT_DIR$/service/user/src/main/java/org/ec/test/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/service-api/user-api/src/main/java/org/ec/test/base/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/common-api/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/common/src/main/java/org/ec/test/utils/StringUtil.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/org/ec/test/base/BaseService.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/org/ec/test/base/BaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/common/src/main/java/org/ec/test/utils/Func.java" />
+        <option value="$PROJECT_DIR$/service/user/pom.xml" />
         <option value="$PROJECT_DIR$/service/user/src/test/java/org/ec/test/QueryTest.java" />
       </list>
     </option>
@@ -182,12 +194,12 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="common-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="common-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
@@ -199,6 +211,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -262,49 +275,6 @@
               <item name="service" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -325,62 +295,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="user-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="user-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="user-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="user-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="user-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatisplus-test" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="user-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -392,7 +306,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="F:/workspace_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.41264367" />
@@ -400,15 +314,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.ec.test" />
       <recent name="org.ec.test.base" />
+      <recent name="org.ec.test" />
       <recent name="org.ec.test.entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\mybatisplus-test\common\src\main\java\org\ec\test" />
+      <recent name="F:\workspace\mybatisplus-test\common\src\main\java\org\ec\test\utils" />
+      <recent name="F:\workspace\mybatisplus-test\common\src\main\java\org\ec\test\base" />
       <recent name="F:\workspace\mybatisplus-test\service\user\src\main\resources" />
       <recent name="F:\workspace\mybatisplus-test\service\user\src\main\java\org\ec\test" />
-      <recent name="F:\workspace\mybatisplus-test\service\user\src\main\java\org\ec\test\utils" />
-      <recent name="F:\workspace\mybatisplus-test\service\user\src\main\java\org\ec\test\base" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -530,6 +445,9 @@
     <history-entry file="QueryTest_test0 - 2020.08.28 at 16h 37m 58s.xml">
       <configuration name="QueryTest.test0" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="QueryTest_test0 - 2020.08.28 at 16h 39m 48s.xml">
+      <configuration name="QueryTest.test0" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -543,15 +461,15 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.32995737" />
       <window_info anchor="bottom" id="JRebel Executor" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.63567567" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.73376626" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.0" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Problems" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" weight="0.32972974" />
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -668,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/utils/BeanUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/utils/CharPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -748,46 +659,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/support/Query.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/support/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="74" column="41" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/support/BaseEntityWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service/user/target/classes/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="30" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://E:/maven/localWarehouse/com/baomidou/mybatis-plus-extension/3.1.0/mybatis-plus-extension-3.1.0-sources.jar!/com/baomidou/mybatisplus/extension/service/IService.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -800,23 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
           <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/base/BaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/base/BaseServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="39" column="121" selection-start-line="39" selection-start-column="121" selection-end-line="39" selection-end-column="121" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,37 +697,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/user/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="89" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/service/IUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -885,20 +714,171 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-api/user-api/src/main/java/org/ec/test/base/BaseEntity.java">
+    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/base/BaseServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        <state relative-caret-position="247">
+          <caret line="39" column="121" selection-start-line="39" selection-start-column="121" selection-end-line="39" selection-end-column="121" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/UserApplication.java">
+    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/base/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-api/user-api/src/main/java/org/ec/test/base/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-api/src/main/java/org/ec/test/base/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/utils/BeanUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/org/ec/test/utils/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1565">
+          <caret line="284" selection-start-line="284" selection-end-line="284" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/org/ec/test/base/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/org/ec/test/base/BaseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/org/ec/test/utils/Func.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1610">
+          <caret line="606" column="12" lean-forward="true" selection-start-line="606" selection-start-column="12" selection-end-line="606" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/support/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/support/BaseEntityWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/support/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="74" column="41" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/org/ec/test/support/BaseEntityWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <caret line="34" column="2" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/user/src/main/java/org/ec/test/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -907,8 +887,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service/user/src/test/java/org/ec/test/QueryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+        <state relative-caret-position="39">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -967,7 +947,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>user</last-edited>
+          <last-edited>common-api</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
